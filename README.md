@@ -22,4 +22,4 @@ Currently working on hands-on labs and documentation to grow my knowledge in:
 - 📝 Publish regular SOC playbooks and log analysis
 
 Connect with me:  
-[LinkedIn](dobguebadre) | [Email](dobguebadre235@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/dobgué-badré-04a7a621a)| [Email](mailto:dobguebadre235@gmail.com)
